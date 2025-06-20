@@ -44,8 +44,7 @@ A full-stack feedback system where users submit feedback, receive an OTP via ema
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mayank-dev-app/myCollege
 
 2. Install backend dependencies
 cd backend
